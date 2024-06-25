@@ -3,7 +3,7 @@
 - 🌱 Gané el tercer lugar en el concurso "Mi proyecto en Realidad Aumentada" con el filtro "Volcanes de México" disponible para Facebook e Instagram.
 - 💞️ Busco colaborar en proyectos de diseño de páginas web y de realidad aumentada con Meta Spark.
 - 📫 Me pueden contactar a través del correo: yox.blanco@gmail.com
-- 😄 Pronombres: ella
+- 😄 Portafolio: https://www.behance.net/yox_blanco
 - ⚡ Dato curioso: me encantan las artes.
 
 <!---
